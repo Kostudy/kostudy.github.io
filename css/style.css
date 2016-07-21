@@ -1903,18 +1903,6 @@ section.comment {
   background-size: 6.875em 6.875em;
   -webkit-border-radius: 3.4375em;
   border-radius: 3.4375em;
-  -webkit-transition: -webkit-transform 2s ease-out;
-  -moz-transition: -moz-transform 2s ease-out;
-  -o-transition: -o-transform 2s ease-out;
-  -ms-transition: -ms-transform 2s ease-out;
-  transition: transform 2s ease-out;
-}
-.author-img:hover {
-  -webkit-transform: rotateZ(360deg);
-  -moz-transform: rotateZ(360deg);
-  -o-transform: rotateZ(360deg);
-  -ms-transform: rotateZ(360deg);
-  transform: rotateZ(360deg);
 }
 @media only screen and (min-width: 1024px) {
   .author-img {
